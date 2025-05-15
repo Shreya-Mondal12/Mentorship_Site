@@ -1,15 +1,12 @@
 {
-  "name": "mentorship-site",
+  "name": "myproject",
   "version": "1.0.0",
-  "description": "Frontend mentorship platform built using HTML, CSS, and JavaScript.",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "live-server public"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Shreya Mondal",
-  "license": "MIT",
-  "devDependencies": {
-    "live-server": "^1.2.2"
-  }
+  "author": "Shreya",
+  "license": "ISC"
 }
