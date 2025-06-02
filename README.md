@@ -2,7 +2,7 @@
 
 A web-based mentorship platform designed to connect mentors and mentees, built using TypeScript and JavaScript.
 
-Deployment link:[](https://mentorshipsite23.netlify.app/)
+Deployment link:[link ](https://mentorshipsite23.netlify.app/)
 ## Project Structure
 
 - **.vscode/**: VS Code editor settings and configurations
