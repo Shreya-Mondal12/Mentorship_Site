@@ -2,7 +2,7 @@
 
 A web-based mentorship platform designed to connect mentors and mentees, built using TypeScript and JavaScript.
 
-Deployment link:https://6826293cdbf1fb31c9b8e683--benevolent-tanuki-4180de.netlify.app/
+Deployment link:[](https://mentorshipsite23.netlify.app/)
 ## Project Structure
 
 - **.vscode/**: VS Code editor settings and configurations
